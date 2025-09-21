@@ -1,0 +1,57 @@
+# Fichiers générés par Visual Studio
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+*.nupkg
+
+# Fichiers générés par .NET
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# Fichiers de configuration locaux
+app.config
+appsettings.json
+appsettings.*.json
+secrets.json
+
+# Fichiers de build
+*.msi
+*.msm
+*.msp
+
+# Fichiers de cache
+*.cache
+
+# Fichiers de log
+*.log
+
+# Fichiers de solution et de projet
+*.sln
+*.csproj
+
+# Fichiers de ressources temporaires
+*.resx
+
+# Fichiers de documentation
+*.chm
+*.vsix
+
+# Fichiers de test
+*.vshost.*
+*.testsettings
+*.trx
+
+# Fichiers de package
+packages/
+*.nupkg
+
+# Fichiers de cache NuGet
+nuget.config
+
+# Fichiers de cache de l'IDE
+.vs/
